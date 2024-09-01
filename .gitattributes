@@ -1,0 +1,12 @@
+cloudinary/** filter=lfs diff=lfs merge=lfs -text
+controllers/** filter=lfs diff=lfs merge=lfs -text
+models/** filter=lfs diff=lfs merge=lfs -text
+node_modules/** filter=lfs diff=lfs merge=lfs -text
+public/** filter=lfs diff=lfs merge=lfs -text
+routes/** filter=lfs diff=lfs merge=lfs -text
+seeds/** filter=lfs diff=lfs merge=lfs -text
+utlis/** filter=lfs diff=lfs merge=lfs -text
+views/** filter=lfs diff=lfs merge=lfs -text
+.env filter=lfs diff=lfs merge=lfs -text
+*.js filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
